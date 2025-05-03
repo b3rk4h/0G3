@@ -137,4 +137,4 @@ python main.py
 ```
 - Choose a language (Vietnamese/English).
   
-Last updated: Sat May  3 00:38:39 UTC 2025
+Last updated: Sat May  3 12:12:53 UTC 2025
